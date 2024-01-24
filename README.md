@@ -1,9 +1,25 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThaizMilGrau&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThaizMilGrau&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-- 👋 Hi, I’m @ThaizMilGrau
-- 👀 PROGRAMAR
-- 🌱 Atualmente faço faculdade de ADS.
-- 
-- 📫 Contato
-- 📧 Email: thaiz2015moura@gmail.com
+## Bem-vindo(a) ao perfil ThaizMilGrau 😁
 
+ <div>
+   <a href="https://github.com/ThaizMilGrau">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaizMilGrau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaizMilGrau&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="
+           
+</div>
+ 
+<br>
+ 
+### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+  <a href="https://instagram.com/tata_mooura" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thaiz2015moura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="http://linkedin.com/in/thaize-mendes-moura-10464a216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
